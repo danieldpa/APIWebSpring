@@ -57,6 +57,7 @@ import med.voll.api.endereco.Endereco;
         }
 
         public void excluir() {
+
             this.ativo = false;
         }
     }
